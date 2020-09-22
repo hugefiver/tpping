@@ -1,0 +1,11 @@
+[package]
+name = "tpping"
+version = "0.1.0"
+authors = ["hugefiver <i@iruri.moe>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tui = {varsion = "0.11", default-features=false, features = ["crossterm"]}
+crossterm = "0.17"
