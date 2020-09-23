@@ -1,3 +1,3 @@
-# TPPing
+# TPing
 
 ## Terminal Perfect Ping

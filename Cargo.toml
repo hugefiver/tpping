@@ -1,5 +1,5 @@
 [package]
-name = "tpping"
+name = "tping"
 version = "0.1.0"
 authors = ["hugefiver <i@iruri.moe>"]
 edition = "2018"

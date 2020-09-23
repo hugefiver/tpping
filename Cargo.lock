@@ -197,7 +197,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "tpping"
+name = "tping"
 version = "0.1.0"
 dependencies = [
  "crossterm",
