@@ -265,7 +265,7 @@ dependencies = [
 name = "tping"
 version = "0.1.0"
 dependencies = [
- "crossterm 0.17.7",
+ "crossterm 0.18.2",
  "tui",
 ]
 
